@@ -632,7 +632,14 @@ ul.sub-menu {
   border: 3px solid #d5453a;
   background-color: #f6f5f1;
 }
-
+.btn-common3 {
+    margin-top: 30px;
+    font-size: 22px;
+    font-weight: 400;
+    color: #d5453a;
+    border: 2px solid #d5453a;
+    background-color: #f6f5f1;
+}
 .zx-banner{
   background-color: #d5453a;
   padding: 20px;
@@ -981,9 +988,6 @@ h3.top-zero{
 /*************************
 *******Service Page******
 **************************/
-#recent-projects{
-  padding: 85px 0;
-}
 
 .recent-projects .team-single{
   height: 355px;
@@ -1059,7 +1063,7 @@ ul.elements li > i{
   position: absolute;
   top: 0;
   height: 100%;
-  background:rgba(112, 35, 64, 0.9);
+  background:rgba(213, 69, 58, 0.75);
   width: 100%;
   text-align: center;
 }
@@ -1110,8 +1114,8 @@ ul.elements li > i{
 }
 
 .portfolio-filter {
-  margin: 80px 0;
-  padding: 0;
+  padding: 20px 0;
+    margin-bottom: 20px;
 }
 
 .portfolio-filter li {
@@ -1468,7 +1472,7 @@ Portfolio Details
 }
 
 .navbar-default li a{
-  font-size: 12px;
+  font-size: 18px;
   padding: 0;
   padding-right: 15px;
 }
